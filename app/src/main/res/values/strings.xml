@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextRecognitionApp</string>
+    <string name="scan_text_label">Click \'Start Scan\' Button to scan max 30 alphanumeric characters using device camera which includes text in the format \'*#alphanumeric_characters\'</string>
+</resources>
